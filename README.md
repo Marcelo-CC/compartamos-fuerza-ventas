@@ -1,4 +1,4 @@
-# appbanco_compartamos_cliente
+# appbanco_compartamos_ventas
 
 A new Flutter project.
 
